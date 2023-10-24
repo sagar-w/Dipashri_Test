@@ -1,0 +1,29 @@
+#  Day 1
+1) Write a program that determines whether a given year is a leap year.
+2) Create a program that takes three numbers as input and finds the largest among them using if-else statements. 
+3) Write a program that takes a user's input as a string and checks if it's a palindrome.
+4) Write a program that takes three numbers as input and determines if they can form the sides of a valid triangle.
+  [Use property of triangle "Sum of 2 sides is always greater than 3rd side"]
+5) Create a program that takes a student's score as input (on a scale of 0-100) and assigns a letter grade based on the  
+	following criteria:
+		90-100: A
+		80-89: B
+		70-79: C
+		60-69: D
+		Below 60: F
+6) Write a program that calculates the factorial of a number entered by the user
+7) Create a program that checks if a given number is prime.
+8) Take a number N as input and print all numbers from N-1 to 0 (In order)
+9) Program to check if two strings are anagrams.  
+10) Write a Python program that uses a 'for' loop to iterate over a range of numbers from 1 to 'n,' where 'n' is a positive integer entered by the user. Within the loop, use the 'continue' statement to skip numbers divisible by 3, and the 'break' statement to terminate the loop if a number is greater than or equal to 10. Display the numbers as you iterate through them.
+
+
+----------------------------------------------------------------------------------------------------------------------------
+
+Day 2
+
+10) Write a program that generates the first N terms of the Fibonacci sequence.
+
+
+
+https://media.licdn.com/dms/document/media/D561FAQG70gj6bYOtmQ/feedshare-document-pdf-analyzed/0/1696741496981?e=1698883200&v=beta&t=83xUeDF6cbpTR5sCCOeZmoFafxRdz2HDc9LQxPMLQSY
